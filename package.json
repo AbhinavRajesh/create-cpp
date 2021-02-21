@@ -1,6 +1,6 @@
 {
   "name": "@abhinavrajesh/create-cpp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI To make starter files for C++",
   "main": "src/cli.js",
   "bin": {
@@ -29,7 +29,9 @@
   "files": [
     "bin/",
     "src/",
-    "templates/"
+    "templates/",
+    "README.md",
+    "LICENSE"
   ],
   "author": "",
   "license": "ISC"
