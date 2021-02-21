@@ -1,10 +1,9 @@
 {
   "name": "@abhinavrajesh/create-cpp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI To make starter files for C++",
   "main": "src/cli.js",
   "bin": {
-    "@abhinavrajesh/create-cpp": "bin/create-project",
     "create-cpp": "bin/create-project"
   },
   "publishConfig": {
