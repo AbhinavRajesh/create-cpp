@@ -25,7 +25,7 @@ npm i -g @abhinavrajesh/create-cpp
 ## Usage
 
 ```sh
-create-cpp
+create-cpp <folder-name>
 ```
 
 ## Author
@@ -40,4 +40,3 @@ create-cpp
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
