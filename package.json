@@ -33,6 +33,19 @@
     "README.md",
     "LICENSE"
   ],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbhinavRajesh/create-cpp.git"
+  },
+  "homepage": "https://github.com/AbhinavRajesh/create-cpp",
+  "bugs": {
+    "url": "https://github.com/AbhinavRajesh/create-cpp/issues",
+    "email": "abhinavrajesh49@gmail.com"
+  },
+  "author": {
+    "name": "Abhinav Rajesh",
+    "email": "abhinavrajesh49@gmail.com",
+    "url": "https://abhinavrajesh.me"
+  },
+  "license": "MIT"
 }
