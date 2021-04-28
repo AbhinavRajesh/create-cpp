@@ -74,11 +74,7 @@ export const createProject = async (options) => {
   };
 
   const templateDir = decodeURI(
-    path.resolve(
-      new URL(currentFileUrl).pathname,
-      "../../templates",
-      selectedTemplate
-    )
+    path.resolve(__dirname, "../templates", selectedTemplate)
   );
   options.templateDirectory = templateDir;
 
